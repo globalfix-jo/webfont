@@ -1,0 +1,11 @@
+
+/* OmniGothic */
+@font-face {
+    font-family: 'OmniGothic';
+    src: url('OTOmniGothicTA.woff2') format('woff2'),
+        url('OTOmniGothicTA.woff') format('woff'),
+        url('OTOmniGothicTA.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
